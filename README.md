@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning a bit of Laravel.
 - 💞 I’m looking to collaborate with passionate and enthusiastic developers in an inclusive environment.
 - 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/manuel-gonzalez-garcia-de-blas/).
+- 💾 My current tech stack is: HTML, CSS, JavaScript, TypeScript, Node.js, React, Next.js, SQL, PostgreSQL, Docker.
 
 
 <!---
